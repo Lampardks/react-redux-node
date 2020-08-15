@@ -1,0 +1,50 @@
+[
+  {
+      "id": "1",
+      "categoryId": "1",
+      "name": "Рубашка на пуговицах",
+      "price": 320,
+      "image": "/uploads/rubashka-na-pugovitsakh.jpg",      
+      "count": 20
+  },
+  {
+    "id": "2",
+    "categoryId": "1",
+    "name": "Рубашка с принтом",
+    "price": 170,
+    "image": "/uploads/rubashka-s-printom.jpg",      
+    "count": 11
+  },
+  {
+    "id": "3",
+    "categoryId": "2",
+    "name": "Кроссовки «Kaiwa» Y3 x Adidas",
+    "price": 240,
+    "image": "/uploads/krossovki-kaiwa-y3-x-adidas.jpg",      
+    "count": 134
+  },
+  {
+    "id": "4",
+    "categoryId": "1",
+    "name": "куртка-рубашка с карманами",
+    "price": 1240,
+    "image": "/uploads/kurtka-rubashka-s-karmanami.jpg",      
+    "count": 11
+  },
+  {
+    "id": "5",
+    "categoryId": "2",
+    "name": "Кроссовки с пряжками",
+    "price": 390,
+    "image": "/uploads/krossovki-s-pryazhkami.jpg",      
+    "count": 11
+  },
+  {
+    "id": "6",
+    "categoryId": "3",
+    "name": "Укороченные зауженные брюки",
+    "price": 647,
+    "image": "/uploads/ukorochennyye-zauzhennyye-bryuki.jpg",      
+    "count": 7
+  }
+]

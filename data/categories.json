@@ -1,0 +1,14 @@
+[
+  {
+      "id": "1",
+      "categoryName": "Рубашки"
+  },
+  {
+    "id": "2",
+    "categoryName": "Обувь"
+  },
+  {
+    "id": "3",
+    "categoryName": "Брюки"
+  }
+]
