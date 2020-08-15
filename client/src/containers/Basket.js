@@ -7,9 +7,10 @@ import {
   removeProduct,
 } from '../redux/actions/basket';
 import { addProductToBasketRequest } from '../redux/actions/products';
+import { getProductsBasketSelector } from '../selectors';
 
 const mapStateToProps = (store) => ({
-  products: store.basket.products,
+  products: getProductsBasketSelector(store),
   totalPrice: store.basket.totalPrice,
   isLoading: store.basket.isLoading,
   isVisible: store.basket.isVisible,
